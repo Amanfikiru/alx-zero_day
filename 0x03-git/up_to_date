@@ -1,2 +1,1 @@
-clone, add, push, commit, echo, pull 
-init, touch, branch, checkout, status 
+git init, git branch, git add, git commit, git merge, git push, git status, git checkout
